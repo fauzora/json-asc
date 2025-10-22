@@ -1,0 +1,102 @@
+{
+    "session_progress": {
+        "score": 80,
+        "session_total": 5,
+        "completed_session": 4,
+        "incomplete_session": 1
+    },
+    "average_score": {
+        "score": 95,
+        "label": "very good"
+    },
+    "average_quiz_finish": {
+        "average_score_in_ms": 3600000,
+        "score_formatted_time": "60 minutes",
+        "target_score_in_ms": 1800000,
+        "target_formatted_time": "30 minutes",
+        "label": "very good"
+    },
+    "quiz_completion": {
+        "score": 80,
+        "quiz_total": 10,
+        "completed_quiz": 8,
+        "incomplete_quiz": 2
+    },
+    "score_trend_per_session": {
+        "by_lagging": [
+            {
+                "name": "by_lagging",
+                "data": [
+                    {
+                        "name": "sesi 1",
+                        "value": 78
+                    },
+                    {
+                        "name": "sesi 2",
+                        "value": 85
+                    },
+                    {
+                        "name": "sesi 3",
+                        "value": 92
+                    },
+                    {
+                        "name": "sesi 4",
+                        "value": 67
+                    },
+                    {
+                        "name": "sesi 5",
+                        "value": 74
+                    }
+                ]
+            }
+        ],
+        "full_campaign": [
+            {
+                "name": "full_campaign",
+                "data": [
+                    {
+                        "name": "sesi 1",
+                        "value": 83
+                    }
+                ]
+            }
+        ]
+    },
+    "personal_recommendation": [
+        {
+            "lagging_indicator": "Zero Injury / Fatality During Emergency",
+            "final_score": 90,
+            "is_passing_grade": true,
+            "critical_point": "Lakukan Audit Kepatuhan Penggunaan Alat Pelindung Diri (APD) per area kerja (target 100% kepatuhan APD wajib).",
+            "recommendation": ""
+        },
+        {
+            "lagging_indicator": "Average Evacuation Time ≤ Standard (5 minutes)",
+            "final_score": 85,
+            "is_passing_grade": true,
+            "critical_point": "Terapkan Sesi Pelatihan Simulasi Respons Darurat Bulanan bagi seluruh petugas (target 100% partisipasi dan skor lulus ≥85%).",
+            "recommendation": ""
+        },
+        {
+            "lagging_indicator": "No Escalation of Fire / Explosion",
+            "final_score": 88,
+            "is_passing_grade": false,
+            "critical_point": "Terapkan Survei Kepuasan Kerja Petugas Bulanan (target skor kepuasan kerja ≥4.0/5.0).",
+            "recommendation": ""
+        },
+        {
+            "lagging_indicator": "Zero Environmental Impact After Oil Spill",
+            "final_score": 90,
+            "is_passing_grade": false,
+            "critical_point": " Lakukan Audit Kepatuhan Prosedur Keamanan Harian oleh Supervisor (target 98% kepatuhan).",
+            "recommendation": ""
+        },
+        {
+            "lagging_indicator": "Zero Non-Compliance Finding During ERP Audit",
+            "final_score": 85,
+            "is_passing_grade": false,
+            "critical_point": "Lakukan Inspeksi dan Pemeliharaan Rutin Peralatan Pendukung (CCTV, Alarm, Pagar) setiap minggu (target 0 kerusakan peralatan yang tidak teridentifikasi).",
+            "recommendation": ""
+        }
+    ]
+}
