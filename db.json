@@ -1,4 +1,5 @@
 {
+    "user": {
     "session_progress": {
         "score": 80,
         "session_total": 5,
@@ -99,4 +100,6 @@
             "recommendation": ""
         }
     ]
+}
+
 }
