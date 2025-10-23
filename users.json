@@ -14,7 +14,7 @@
         "score_formatted_time": "60 minutes",
         "target_score_in_ms": 1800000,
         "target_formatted_time": "30 minutes",
-        "label": "very good"
+        "label": "slow"
     },
     "quiz_completion": {
         "score": 80,
